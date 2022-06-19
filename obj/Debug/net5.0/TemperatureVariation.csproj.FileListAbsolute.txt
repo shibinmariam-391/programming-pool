@@ -1,0 +1,16 @@
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\TemperatureVariation.exe
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\TemperatureVariation.deps.json
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\TemperatureVariation.runtimeconfig.json
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\TemperatureVariation.runtimeconfig.dev.json
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\TemperatureVariation.dll
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\ref\TemperatureVariation.dll
+D:\Skill Test\TemperatureVariation\bin\Debug\net5.0\TemperatureVariation.pdb
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.csprojAssemblyReference.cache
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.AssemblyInfoInputs.cache
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.AssemblyInfo.cs
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.csproj.CoreCompileInputs.cache
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.dll
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\ref\TemperatureVariation.dll
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.pdb
+D:\Skill Test\TemperatureVariation\obj\Debug\net5.0\TemperatureVariation.genruntimeconfig.cache
